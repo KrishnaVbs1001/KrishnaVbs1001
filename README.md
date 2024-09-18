@@ -8,19 +8,33 @@ About me
 💬 Talk to me about Full-Stack Development and Data Science.
 👯 I’m looking to collaborate on software engineering projects.
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
-Languages:
-<p align="center"> ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) </p>
-Currently Learning:
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" />
-Front-End Development:
+<p align="center">
+
+- **Languages**:
+    
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  - <h5> Currently Learning </h5>
+    <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
 
 
-Frameworks & Libraries:
+  
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-<h2>💻 GitHub Profile Stats</h2> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=algolia" alt="Bala Surya Krishna's Streak" height="192px"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Bala Surya Krishna's Top Languages" height="192px"/> </p> <p align="center"> <a href="https://github.com/yourusername/github-readme-stats"><img alt="Bala Surya Krishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=algolia" height="192px"/></a> <br/> </p>
-<b> Let's Connect..!</b> <img src="https://media.giphy.com/media/3og0IKMm5s4XqB43sk/giphy.gif" width="50px">
-<div align='left'> <ul> <li> <a href="https://www.linkedin.com/in/balasuryakrishnavankayala/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </li> <br> <li> <a href="mailto:yourmail@example.com" target="_blank"> <img src="https://img.shields.io/badge/gmail:%20yourmail@example.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" /> </a> </li> </ul> </div> <div id="badges"> <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views"/> </div>
+- **Frameworks & Libraries** :
+  
+  <img src = "https://img.shields.io/badge/react-black?logo=react&style=for-the-badge" alt = "react-native" />
+  <img src = "https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt = "AngularJS" />
+  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
+</p>
+
 
 Credit: Bala Surya Krishna Vankayala
 Last Edited on: 18/09/2024
